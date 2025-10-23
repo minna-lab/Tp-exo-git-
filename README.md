@@ -1,2 +1,2 @@
 # tp git
-c'est un depo pour le tp git
+c'est un dépôt pour le tp git
